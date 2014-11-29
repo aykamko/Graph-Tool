@@ -1,0 +1,24 @@
+{
+  "name": "graph_tool",
+  "version": "0.0.1",
+  "description": "Graph Algorithm Visualization Tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "testgraph"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aykamko/Graph-Tool.git"
+  },
+  "keywords": [
+    "graph",
+    "cs170",
+    "algorithm"
+  ],
+  "author": "Aleks Kamko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aykamko/Graph-Tool/issues"
+  },
+  "homepage": "https://github.com/aykamko/Graph-Tool"
+}
