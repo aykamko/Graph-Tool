@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/aykamko/Graph-Tool/issues"
   },
-  "homepage": "https://github.com/aykamko/Graph-Tool"
+  "homepage": "https://github.com/aykamko/Graph-Tool",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-typescript": "^0.4.4",
+    "typescript": "^1.3.0"
+  }
 }
